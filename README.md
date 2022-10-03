@@ -1,4 +1,4 @@
-# Financial-Engineering
+# Quant
 This repository includes the dynamics trading strategies and risk management. 
 
 ### License
