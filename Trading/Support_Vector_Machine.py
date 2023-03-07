@@ -1,6 +1,5 @@
 """ Support_Vector_Machine             """
 
-
 from __future__ import print_function
 
 import pprint
